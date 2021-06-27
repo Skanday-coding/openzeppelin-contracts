@@ -6,7 +6,7 @@ import "../utils/Context.sol";
 
 /**
  * @dev Contract module which provides a basic access control mechanism, where
- * there is an account (an owner) that can be granted exclusive access to
+ * there is an account (an tesowner) that can be granted exclusive access to
  * specific functions.
  *
  * By default, the owner account will be the one that deploys the contract. This
